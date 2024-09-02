@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-Estudiante de Universidad Nacional de La Plata<br>[Facultad de Informatica](https://www.info.unlp.edu.ar/):<br>-Lic. en Sistemas<br>-Analista Programador Universitario<br><br>🤝 Actualmente estoy trabajando como Desarrollador Web para: TIPPIT<br>🌱 Me gustaria aprender mas cosas relacionadas con el Backend<br>🌎Idiomas:<br>🇦🇷Español<br>🇺🇸Ingles<br>🇧🇷Portugues<br>
+Estudiante de la Universidad Nacional de La Plata<br>[Facultad de Informatica](https://www.info.unlp.edu.ar/):<br>-Lic. en Sistemas<br>-Analista Programador Universitario<br><br>🤝 Actualmente estoy trabajando como Desarrollador Web para: TIPPIT<br>🌱 Me gustaria aprender mas cosas relacionadas con el Backend<br>🌎Idiomas:<br>🇦🇷Español<br>🇺🇸Ingles<br>:flag_brazil:Portugues<br>
 
 
 ## 🌐 Socials:
