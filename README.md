@@ -6,6 +6,7 @@ Soy estudiante de la Universidad Nacional de La Plata<br>[Facultad de Informatic
 
 ## 🌐 Socials:![gabumon](https://media.giphy.com/media/QiWssV3HckNClWMprj/giphy.gif)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/felipe_dlcb?igsh=MTRubnBzMTM4Yzh5NA%3D%3D&utm_source=qr) 
+[![Gmail](https://img.shields.io/badge/mi%20Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)]
 
 # 💻 Tech Stack:![wargreymon](https://media.giphy.com/media/gdeqcjT9pEbeiFbXmZ/giphy.gif)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
