@@ -1,5 +1,5 @@
-## Hi there 👋
-# 💫 About Me:
+## Hi there 👋 ![impmon](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnAzMmJpMGs2MzhiY3J3dnJ5c3VkdmMzbGJtMGdpZW9ybWt1dDc5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Q4QwKxeGQk6rRauFXQ/giphy.gif)
+# 💫 Sobre Mi:
 Estudiante de la Universidad Nacional de La Plata<br>[Facultad de Informatica](https://www.info.unlp.edu.ar/):<br>-Lic. en Sistemas<br>-Analista Programador Universitario<br><br>🤝 Actualmente estoy trabajando como Desarrollador Web para: TIPPIT<br>🌱 Me gustaria aprender mas cosas relacionadas con el Backend<br>🌎Idiomas:<br>-Español<br>-Ingles<br>-Portugues<br>
 
 
